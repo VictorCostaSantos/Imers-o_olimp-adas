@@ -1,4 +1,4 @@
-## Desvendando Atletas - Imersão Dev com Google Gemini
+# Desvendando Atletas - Imersão Dev com Google Gemini
 
 **Tecnologias usadas:**
 
